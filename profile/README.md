@@ -15,7 +15,7 @@ Contract: https://github.com/BkCrypt0/BkCrypt0SmartContract.git
 
 Resource: https://github.com/BkCrypt0/BkCrypt0-Resources.git
 
-Demo Intergrate Platform: https://wine-seller-app.vercel.app/
+Demo Intergrate Platform: https://github.com/BkCrypt0/BKCrypt0-DemoProof
 
 ## Contact
 Discord: 
