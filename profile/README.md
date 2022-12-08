@@ -23,6 +23,7 @@ Discord:
 ## Bug Tracker
 
 Bug Tracker Link: 
+
 [BkCrypt0Server](https://github.com/BkCrypt0/BkCrypt0Server/issues)
 
 [BkCrypt0Wallet](https://github.com/BkCrypt0/BkCrypt0-Frontend/issues)
@@ -40,3 +41,9 @@ Bug Tracker Link:
 - snarkjs - Licence GPL-3.0
 - rapidsnark - Licence GPL-3.0
 - express 4.18.2 - Licence MIT
+
+## Comminities
+
+[Discord](https://discord.gg/7WM4BJGk)
+
+[Facebook](https://www.facebook.com/BKCrypt0)
