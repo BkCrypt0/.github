@@ -21,9 +21,13 @@ Demo Intergrate Platform: https://github.com/BkCrypt0/BKCrypt0-DemoProof
 Discord: 
 
 ## Bug Tracker
-[BkCrypt0Server](https://github.com/BkCrypt0/BkCrypt0Server/issues)
 
 Bug Tracker Link: 
+[BkCrypt0Server](https://github.com/BkCrypt0/BkCrypt0Server/issues)
+[BkCrypt0Wallet](https://github.com/BkCrypt0/BkCrypt0-Frontend/issues)
+[BkCrypt0Circuit](https://github.com/BkCrypt0/BkCrypt0Circuit/issues)
+[BkCrypt0SmartContract](https://github.com/BkCrypt0/BkCrypt0SmartContract/issues)
+[BkCrypt0Resource](https://github.com/BkCrypt0/BkCrypt0-Resources/issues)
 
 ## Libraries
 - circomlibjs 0. - Licence GPL-3.0
