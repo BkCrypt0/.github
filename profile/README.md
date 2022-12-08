@@ -21,6 +21,7 @@ Demo Intergrate Platform: https://github.com/BkCrypt0/BKCrypt0-DemoProof
 Discord: 
 
 ## Bug Tracker
+[BkCrypt0Server](https://github.com/BkCrypt0/BkCrypt0Server/issues)
 
 Bug Tracker Link: 
 
